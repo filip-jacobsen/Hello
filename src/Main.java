@@ -5,6 +5,6 @@ public class Main {
         System.out.println("sucessful program");
         System.out.println("New print statement");
         System.out.println("modified the code");
-        System.out.println("Person B");
+        System.out.println("person b");
     }
 }
