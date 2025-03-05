@@ -3,5 +3,6 @@ public class Main {
         System.out.println("hello, git!");
         System.out.println("version 2 ");
         System.out.println("sucessful program");
+        System.out.println("New print statement");
     }
 }
